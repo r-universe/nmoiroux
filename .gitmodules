@@ -5,6 +5,9 @@
 [submodule "ExpBites"]
 	path = ExpBites
 	url = https://github.com/nmoiroux/expbites
+[submodule "InsectLabelR"]
+	path = InsectLabelR
+	url = https://github.com/nmoiroux/insectlabelr
 [submodule "ecoXCorr"]
 	path = ecoXCorr
 	url = https://github.com/nmoiroux/ecoxcorr
