@@ -11,3 +11,6 @@
 [submodule "ecoXCorr"]
 	path = ecoXCorr
 	url = https://github.com/nmoiroux/ecoxcorr
+[submodule "mfclim"]
+	path = mfclim
+	url = https://github.com/nmoiroux/mfclim
